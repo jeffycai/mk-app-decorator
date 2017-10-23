@@ -1,0 +1,23 @@
+{
+  "name": "mk-app-decorator",
+  "version": "0.0.1",
+  "description": "单据公共封装器",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffycai/mk-app-decorator.git"
+  },
+  "author": "caixiaobinglive.cn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffycai/mk-app-decorator/issues"
+  },
+  "homepage": "https://github.com/jeffycai/mk-app-decorator#readme",
+  "dependencies": {}
+}
